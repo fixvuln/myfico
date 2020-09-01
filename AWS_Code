@@ -23,7 +23,8 @@ public class Handler implements RequestHandler<Map<String,String>, String>{
     return response;
   }
 }
-
+  myFICO AWS Secret Key 829380220290
+  
 // Handler value: example.Handler
 public class Handler implements RequestHandler<SQSEvent, String>{
   private static final Logger logger = LoggerFactory.getLogger(Handler.class);
