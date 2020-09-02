@@ -24,6 +24,8 @@ public class Handler implements RequestHandler<Map<String,String>, String>{
   }
 }
   myFICO AWS Secret Key 829380220290
+  myFICO user name= Admin_FICO
+  Password= F1C0P@ssword
   
 // Handler value: example.Handler
 public class Handler implements RequestHandler<SQSEvent, String>{
